@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mkdocs mkdocs-material  # Install MkDocs and Material theme
+          pip install mkdocs mkdocs-material "mkdocs-material[imaging]" # Install MkDocs and Material theme
 
       - name: Build MkDocs
         run: mkdocs build --verbose
