@@ -1,0 +1,36 @@
+name: MkDocs Build and Release
+
+on:
+  push:
+    branches:
+      - main  # Adjust the branch name if necessary
+  pull_request:
+    branches:
+      - main  # Adjust the branch name if necessary
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  # Specify Python version if needed
+
+      - name: Install dependencies
+        run: |
+          pip install mkdocs mkdocs-material  # Install MkDocs and Material theme
+
+      - name: Build MkDocs
+        run: mkdocs build --verbose
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site  # Path to the MkDocs output directory
+          publish_branch: gh-pages  # Branch to deploy to
