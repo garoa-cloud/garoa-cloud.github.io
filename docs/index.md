@@ -6,10 +6,10 @@ hide:
 # You build, we host.
 ## What we do?
 
-IT consulting company specialized in providing managed services and custom app development.
+IT consulting company specialized in providing managed services and infrastructure automation.
 
 ## Services
-* App development
+* Automation development.
 * DevOps consulting
 * Managed services
 

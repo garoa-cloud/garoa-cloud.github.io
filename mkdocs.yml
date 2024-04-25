@@ -2,8 +2,8 @@ site_name: Garoa.cloud
 site_url: https://garoa-cloud.github.io/
 theme:
   name: material
-  icon: 
-    logo: material/cloud
+  favicon: assets/images/garoa-logo.svg
+  logo: assets/images/garoa-logo.svg
   features:
     - navigation.tabs
     - navigation.sections
@@ -19,13 +19,13 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/weather-night
         name: Switch to dark mode
       primary: black
       accent: amber 
     - scheme: slate 
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-sunny
         name: Switch to light mode    
       primary: black
       accent: amber

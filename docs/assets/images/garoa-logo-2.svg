@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="52.65464mm"
+   height="52.654644mm"
+   viewBox="0 0 52.65464 52.654644"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-52.266027,-58.084311)">
+    <rect
+       style="fill:#000000;stroke-width:0.264583"
+       id="rect1"
+       width="227.4998"
+       height="150.4193"
+       x="99.15699"
+       y="-5.2384825" />
+    <rect
+       style="fill:#ff2a2a;stroke-width:0.116755"
+       id="rect9"
+       width="50.805393"
+       height="50.805393"
+       x="54.115276"
+       y="59.933559" />
+    <rect
+       style="fill:#000000;stroke:#ff2a2a;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+       id="rect10"
+       width="50.805393"
+       height="50.805393"
+       x="52.530613"
+       y="58.348892" />
+    <rect
+       style="fill:#000000;stroke-width:0.101896"
+       id="rect11"
+       width="44.339397"
+       height="44.339397"
+       x="55.763607"
+       y="61.58189" />
+    <g
+       id="g12"
+       transform="translate(-0.31206606,1.3692984)"
+       style="fill:#f9f9f9">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1117px;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.17597"
+         x="58.806549"
+         y="82.111465"
+         id="text11"><tspan
+           id="tspan11"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1117px;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:1.17597"
+           x="58.806549"
+           y="82.111465">garoa</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.66076px;font-family:'Open Sauce One';-inkscape-font-specification:'Open Sauce One, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.0195548"
+         x="77.887321"
+         y="90.531395"
+         id="text12"><tspan
+           id="tspan12"
+           style="fill:#f9f9f9;stroke-width:0.0195548"
+           x="77.887321"
+           y="90.531395">.cloud</tspan></text>
+    </g>
+  </g>
+</svg>
